@@ -1,4 +1,4 @@
-# CHECK OUT ALL REQUIRED PHOTOS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(4)%20Using%20Databases%20with%20Python/Week%205/images) & PROGRAMS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(4)%20Using%20Databases%20with%20Python/Week%205/Programs)
+# CHECK REQUIRED PHOTOS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(4)%20Using%20Databases%20with%20Python/Week%205/images), QUIZ [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(4)%20Using%20Databases%20with%20Python/Week%205/(Quiz)%20Python%20for%20Everybody%20-%20A%20Review.png) & PROGRAMS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(4)%20Using%20Databases%20with%20Python/Week%205/Programs)
 *Submit the photos obtained from Step 2, 3 and 4*
 
 *For educational purposes only*
