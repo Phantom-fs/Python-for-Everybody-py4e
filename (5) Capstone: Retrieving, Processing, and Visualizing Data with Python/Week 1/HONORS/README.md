@@ -1,36 +1,40 @@
-# CHECK REQUIRED PHOTOS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(4)%20Using%20Databases%20with%20Python/Week%205/images) & PROGRAMS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(4)%20Using%20Databases%20with%20Python/Week%205/Programs)
+# CHECK REQUIRED PHOTOS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/images) & PROGRAMS [HERE](https://github.com/Phantom-fs/Python-for-Everybody-py4e/tree/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/Programs)
 *Submit the photos obtained from Step 2, 3 and 4*
 
 *For educational purposes only*
 
 - - - -
 
-- **STEP 1 :** Add the new location to the file
+- **STEP 1 :** Open **[spider.py](https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/Programs/spider.py)** and enter the Website and number of pages
 
-      where.data
-
-<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(4)%20Using%20Databases%20with%20Python/Week%205/images/(0)addToList.jpg"/></p>
+<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/images/(1)spider.png"/></p>
 
 - - - -
 
-- **STEP 2 :** Now run the file **geoload.py**, and find the location.
+- **STEP 2 :** Open **[sprank.py](https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/Programs/sprank.py) and run it**
 
-      geoload.py
-
-<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(4)%20Using%20Databases%20with%20Python/Week%205/images/(1)geoload.jpg"/></p>
+<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/images/(2)sprank.png"/></p>
 
 - - - -
 
-- **STEP 3 :** Now run the file **geodump.py**, and find the address. It will be in the order in which it was entered in **STEP 1**. Its important you know the location of the place you entered!
+- **STEP 3 :** Run **[spdump.py](https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/Programs/spdump.py)**
 
-      geodump.py
-
-<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(4)%20Using%20Databases%20with%20Python/Week%205/images/(2)geodump.jpg"/></p>
+<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/images/(3)spdump.png"/></p>
 
 - - - -
 
-- **STEP 4 :** Now open the HTML file **where.html**, and find the location you entered on the map
+- **STEP 4 :** Now to create **spider.js**(used in force.html), run **[spjson.py](https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/Programs/spjson.py)**
 
-      where.html
+<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/images/(4)spjson.png"/></p>
 
-<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(4)%20Using%20Databases%20with%20Python/Week%205/images/(3)location.jpg"/></p>
+- - - -
+
+- **STEP 5 :** Now to run HTML file **[force.html](https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/Programs/force.html)**
+
+<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/images/output-1.png"/></p>
+
+- - - -
+
+- **EXTRA TIP :** Before trying new website, run **[spreset.html](https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/Programs/spreset.py)**
+
+<p align="center"><img src="https://github.com/Phantom-fs/Python-for-Everybody-py4e/blob/main/(5)%20Capstone%3A%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python/Week%201/HONORS/images/(4)spreset.png"/></p>
